@@ -1,0 +1,1 @@
+/Applications/XAMPP/xamppfiles/htdocs/magento/vendor/magento/module-theme/view/adminhtml/web/js/bootstrap.js

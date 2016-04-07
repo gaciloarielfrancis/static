@@ -1,0 +1,1 @@
+/Applications/XAMPP/xamppfiles/htdocs/magento/vendor/magento/theme-frontend-blank/web/js/theme.js

@@ -1,0 +1,1 @@
+/Applications/XAMPP/xamppfiles/htdocs/magento/vendor/magento/module-integration/view/adminhtml/web/js/integration.js

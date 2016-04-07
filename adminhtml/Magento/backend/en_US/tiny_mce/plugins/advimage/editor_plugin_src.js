@@ -1,0 +1,1 @@
+/Applications/XAMPP/xamppfiles/htdocs/magento/lib/web/tiny_mce/plugins/advimage/editor_plugin_src.js

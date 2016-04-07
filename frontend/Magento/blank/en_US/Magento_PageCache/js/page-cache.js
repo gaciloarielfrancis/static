@@ -1,0 +1,1 @@
+/Applications/XAMPP/xamppfiles/htdocs/magento/vendor/magento/module-page-cache/view/frontend/web/js/page-cache.js
